@@ -16,8 +16,8 @@ public class TestGit : MonoBehaviour {
 
 	}
 
-    void test()
+    void XXX()
     {
-
+       //x
     }
 }
