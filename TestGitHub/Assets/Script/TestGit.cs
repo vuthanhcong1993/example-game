@@ -5,12 +5,13 @@ using UnityEngine;
 public class TestGit : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
-		
+	void Startt () {
+        transform.position = Vector3.zero;
 	}
-	
+	//cac
 	// Update is called once per frame
 	void Update () {
-		
+		//dfasdfds
+        //conga
 	}
 }
