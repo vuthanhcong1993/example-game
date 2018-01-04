@@ -13,6 +13,11 @@ public class TestGit : MonoBehaviour {
 	void Update () {
 		//dfasdfds
         //conga
-        //??
+
 	}
+
+    void test()
+    {
+
+    }
 }
