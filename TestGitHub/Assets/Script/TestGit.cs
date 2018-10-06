@@ -26,6 +26,6 @@ public class TestGit : MonoBehaviour {
 
     void x()
     {
-
+        Debug.Log("Osss");
     }
 }
