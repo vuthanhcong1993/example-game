@@ -11,13 +11,21 @@ public class TestGit : MonoBehaviour {
 	//cac
 	// Update is called once per frame
 	void Update () {
-		//dfasdfds
+        //dfasdfds
         //conga
+        Debug.Log("kaka");
 
 	}
 
     void XXX()
     {
-       //xxxxxxxxzz
+        //xxxxxxxxzz
+        Debug.Log("zzzzzzz");
+        Debug.Log("Osss");
+    }
+
+    void x()
+    {
+        Debug.Log("Osss");
     }
 }

@@ -33,3 +33,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.ide
+TestGitHub/.vs/TestGitHub/v15/Server/sqlite3/storage.ide-wal
+TestGitHub/.vs/TestGitHub/v15/Server/sqlite3/storage.ide-shm
+TestGitHub/.vs/TestGitHub/v15/Server/sqlite3/db.lock
