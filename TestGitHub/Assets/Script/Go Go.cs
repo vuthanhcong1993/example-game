@@ -14,5 +14,6 @@ public class GoGo : MonoBehaviour
     void Update()
     {
         //master01
+        //master2
     }
 }
